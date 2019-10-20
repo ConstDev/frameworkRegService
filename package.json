@@ -1,0 +1,16 @@
+{
+  "name": "account-creator",
+  "version": "1.0.0",
+  "description": "this is simple project for accout account's creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/ts-node execute/*.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^1.20.0",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  }
+}

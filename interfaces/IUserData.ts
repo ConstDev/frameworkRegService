@@ -1,0 +1,15 @@
+export interface IUserData {
+    'firstName': string,
+    'lastName': string,
+    'companyName': string,
+    'position': string,
+    'email': string,
+    'phoneNumber': string,
+    'webSite': string,
+    'counrty': string,
+    'city': string,
+    'zipCode': string,
+    'streetName': string,
+    'streetNumber': number,
+    'apartmentNumber': number,
+}
